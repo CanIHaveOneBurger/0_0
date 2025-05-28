@@ -5,14 +5,14 @@
 
 <div id="Badges" align="center"> 
 <img src="https://komarev.com/ghpvc/?username=CanIHaveOneBurger&label=Dishes+prepared&style=for-the-badge&color=800000" alt=""/> 
-  <img src="https://media.tenor.com/gCpbO1E0BLAAAAAm/cat-neko.webp" width="30px"/>
+  <img src="https://media.tenor.com/qV4ZgTDw8u4AAAAm/toroinoue-toronao.webp" width="30px"/>
   
 <div id="header" align="center">
   <img src="https://media.tenor.com/Z92kFT9J7JIAAAAm/divider.webp" width="250"/>
 
 <img
  h1>
-  ᴨᴩиʙᴇᴛ
+  baii
   <img src="https://media.tenor.com/51qKk_jSjiEAAAAm/dead-plate-rody-lamoree.webp" width="30px"/>
 <div id="header" align="center">
 
