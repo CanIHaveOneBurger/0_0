@@ -1,13 +1,14 @@
-
   <div id="header" align="center"> 
-<img src="https://i.pinimg.com/originals/de/b0/11/deb01135d06dc3a7a179564be18059d6.gif" width="200px"/>
+    ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷
+  <div id="header" align="center"> 
+<img src="https://media.tenor.com/JBhDCfuR2YQAAAAm/flowers.webp" width="300px"/>
 
 <div id="Badges" align="center"> 
-<img src="https://komarev.com/ghpvc/?username=CanIHaveOneBurger&label=Dishes+prepared&style=for-the-badge&color=c98f9b" alt=""/> 
+<img src="https://komarev.com/ghpvc/?username=CanIHaveOneBurger&label=Dishes+prepared&style=for-the-badge&color=800000" alt=""/> 
   <img src="https://media.tenor.com/gCpbO1E0BLAAAAAm/cat-neko.webp" width="30px"/>
   
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/fa/14/27/fa1427d280b431afea5118a2b198f35f.gif" width="250"/>
+  <img src="https://media.tenor.com/Z92kFT9J7JIAAAAm/divider.webp" width="250"/>
 
 <img
  h1>
