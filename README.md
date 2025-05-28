@@ -11,7 +11,7 @@
 
 <img
  h1>
-  пиупипу
+  ᴨᴩиʙᴇᴛ
   <img src="https://media.tenor.com/51qKk_jSjiEAAAAm/dead-plate-rody-lamoree.webp" width="30px"/>
 <div id="header" align="center">
 <h1>
