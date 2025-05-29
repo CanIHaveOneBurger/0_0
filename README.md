@@ -10,21 +10,3 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/Z92kFT9J7JIAAAAm/divider.webp" width="250"/>
 
-<img
- h1>
-  baii
-  <img src="https://media.tenor.com/XNz3l6VXFfMAAAAm/toronao-toroinoue.webp" width="30px"/>
-<div id="header" align="center">
-
-
-  <img
- h1>
-  какашке
-  <img src="https://media.tenor.com/Qq-xz_yfGfIAAAAm/elevator-hitch-elevator-hitch-game.webp" width="30px"/>
-<div id="header" align="center">
-
-
-  
-  
-  <div id="header" align="center"> 
-<img src="https://blinkies.crd.co/assets/images/gallery17/ad501b69.jpg?v=f551d29f" width="80px"/>
